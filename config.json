@@ -1,0 +1,6 @@
+{
+    "max_logs": 3,
+    "default_algorithm": "sha256",
+    "log_directory": "custom_logs"
+}
+

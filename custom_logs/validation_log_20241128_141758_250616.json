@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2024-11-28T14:17:58.250628",
+        "file": "test_files_batch/valid.zip",
+        "results": {
+            "file": "test_files_batch/valid.zip",
+            "zip_validation": true
+        }
+    }
+]

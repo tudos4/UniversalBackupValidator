@@ -1,0 +1,18 @@
+[
+    {
+        "file": "test_files_batch/valid.7z",
+        "7z_validation": true
+    },
+    {
+        "file": "test_files_batch/valid.zip",
+        "zip_validation": true
+    },
+    {
+        "file": "test_files_batch/valid.tar",
+        "tar_validation": true
+    },
+    {
+        "file": "test_files_batch/invalid.tar",
+        "tar_validation": false
+    }
+]

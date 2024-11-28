@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2024-11-28T14:17:58.251526",
+        "file": "test_files_batch/valid.tar",
+        "results": {
+            "file": "test_files_batch/valid.tar",
+            "tar_validation": true
+        }
+    }
+]

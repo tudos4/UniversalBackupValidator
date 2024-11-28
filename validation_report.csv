@@ -1,0 +1,5 @@
+File,Validation Type,Result,Details
+test_files_batch/valid.7z,7z_validation,True,
+test_files_batch/valid.zip,zip_validation,True,
+test_files_batch/valid.tar,tar_validation,True,
+test_files_batch/invalid.tar,tar_validation,False,
